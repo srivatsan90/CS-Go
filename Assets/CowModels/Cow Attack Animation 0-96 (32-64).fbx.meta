@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: b76e05bc03d146341a3482f69038e326
+timeCreated: 1496234092
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: backAnkle_L
+    100002: backAnkle_R
+    100004: backHip_L
+    100006: backHip_R
+    100008: backKnee_L
+    100010: backKnee_R
+    100012: backRump_L
+    100014: backRump_R
+    100016: backToes_L
+    100018: backToes_R
+    100020: backToesEnd_L
+    100022: backToesEnd_R
+    100024: Chest_M
+    100026: Cow
+    100028: //RootNode
+    100030: DeformationSystem
+    100032: Eye_Brow_End_L
+    100034: Eye_Brow_End_R
+    100036: Eye_Brow_j_L
+    100038: Eye_Brow_j_R
+    100040: Eye_L
+    100042: Eye_R
+    100044: EyeBlink_End_L
+    100046: EyeBlink_End_R
+    100048: EyeBlink_j_L
+    100050: EyeBlink_j_R
+    100052: EyeEnd_L
+    100054: EyeEnd_R
+    100056: frontAnkle_L
+    100058: frontAnkle_R
+    100060: frontHip_L
+    100062: frontHip_R
+    100064: frontKnee_L
+    100066: frontKnee_R
+    100068: frontRump_L
+    100070: frontRump_R
+    100072: frontToes_L
+    100074: frontToes_R
+    100076: frontToesEnd_L
+    100078: frontToesEnd_R
+    100080: Group
+    100082: Head_M
+    100084: HeadEnd_M
+    100086: Jaw_M
+    100088: JawEnd_M
+    100090: Main
+    100092: Neck_M
+    100094: Neck_Skin_End_M
+    100096: Neck_Skin_j_M
+    100098: Nose_End_M
+    100100: Nose_j_M
+    100102: REar_A_j_L
+    100104: REar_A_j_R
+    100106: REar_B_j_L
+    100108: REar_B_j_R
+    100110: REar_C_j_L
+    100112: REar_C_j_R
+    100114: REar_End_L
+    100116: REar_End_R
+    100118: Root_M
+    100120: Spine1_M
+    100122: Tail0_M
+    100124: Tail1_M
+    100126: Tail2_M
+    100128: Tail3_M
+    100130: Tail4_M
+    100132: Tail5_M
+    100134: Udder_End_M
+    100136: Udder_j_M
+    400000: backAnkle_L
+    400002: backAnkle_R
+    400004: backHip_L
+    400006: backHip_R
+    400008: backKnee_L
+    400010: backKnee_R
+    400012: backRump_L
+    400014: backRump_R
+    400016: backToes_L
+    400018: backToes_R
+    400020: backToesEnd_L
+    400022: backToesEnd_R
+    400024: Chest_M
+    400026: Cow
+    400028: //RootNode
+    400030: DeformationSystem
+    400032: Eye_Brow_End_L
+    400034: Eye_Brow_End_R
+    400036: Eye_Brow_j_L
+    400038: Eye_Brow_j_R
+    400040: Eye_L
+    400042: Eye_R
+    400044: EyeBlink_End_L
+    400046: EyeBlink_End_R
+    400048: EyeBlink_j_L
+    400050: EyeBlink_j_R
+    400052: EyeEnd_L
+    400054: EyeEnd_R
+    400056: frontAnkle_L
+    400058: frontAnkle_R
+    400060: frontHip_L
+    400062: frontHip_R
+    400064: frontKnee_L
+    400066: frontKnee_R
+    400068: frontRump_L
+    400070: frontRump_R
+    400072: frontToes_L
+    400074: frontToes_R
+    400076: frontToesEnd_L
+    400078: frontToesEnd_R
+    400080: Group
+    400082: Head_M
+    400084: HeadEnd_M
+    400086: Jaw_M
+    400088: JawEnd_M
+    400090: Main
+    400092: Neck_M
+    400094: Neck_Skin_End_M
+    400096: Neck_Skin_j_M
+    400098: Nose_End_M
+    400100: Nose_j_M
+    400102: REar_A_j_L
+    400104: REar_A_j_R
+    400106: REar_B_j_L
+    400108: REar_B_j_R
+    400110: REar_C_j_L
+    400112: REar_C_j_R
+    400114: REar_End_L
+    400116: REar_End_R
+    400118: Root_M
+    400120: Spine1_M
+    400122: Tail0_M
+    400124: Tail1_M
+    400126: Tail2_M
+    400128: Tail3_M
+    400130: Tail4_M
+    400132: Tail5_M
+    400134: Udder_End_M
+    400136: Udder_j_M
+    4300000: Cow
+    7400000: Take 001
+    7400002: Attack
+    9500000: //RootNode
+    13700000: Cow
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cow
+        weight: 1
+      - path: Group
+        weight: 1
+      - path: Group/Main
+        weight: 1
+      - path: Group/Main/DeformationSystem
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_L/backHip_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_L/backHip_L/backKnee_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_L/backHip_L/backKnee_L/backAnkle_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_L/backHip_L/backKnee_L/backAnkle_L/backToes_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_L/backHip_L/backKnee_L/backAnkle_L/backToes_L/backToesEnd_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_R/backHip_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_R/backHip_R/backKnee_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_R/backHip_R/backKnee_R/backAnkle_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_R/backHip_R/backKnee_R/backAnkle_R/backToes_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_R/backHip_R/backKnee_R/backAnkle_R/backToes_R/backToesEnd_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_L/frontHip_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_L/frontHip_L/frontKnee_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_L/frontHip_L/frontKnee_L/frontAnkle_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_L/frontHip_L/frontKnee_L/frontAnkle_L/frontToes_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_L/frontHip_L/frontKnee_L/frontAnkle_L/frontToes_L/frontToesEnd_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_R/frontHip_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_R/frontHip_R/frontKnee_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_R/frontHip_R/frontKnee_R/frontAnkle_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_R/frontHip_R/frontKnee_R/frontAnkle_R/frontToes_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_R/frontHip_R/frontKnee_R/frontAnkle_R/frontToes_R/frontToesEnd_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_Brow_j_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_Brow_j_L/Eye_Brow_End_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_Brow_j_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_Brow_j_R/Eye_Brow_End_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_L/EyeEnd_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_R/EyeEnd_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/EyeBlink_j_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/EyeBlink_j_L/EyeBlink_End_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/EyeBlink_j_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/EyeBlink_j_R/EyeBlink_End_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/HeadEnd_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Jaw_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Jaw_M/JawEnd_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Nose_j_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Nose_j_M/Nose_End_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_L/REar_B_j_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_L/REar_B_j_L/REar_C_j_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_L/REar_B_j_L/REar_C_j_L/REar_End_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_R/REar_B_j_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_R/REar_B_j_R/REar_C_j_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_R/REar_B_j_R/REar_C_j_R/REar_End_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Neck_Skin_j_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Neck_Skin_j_M/Neck_Skin_End_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail1_M/Tail2_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail1_M/Tail2_M/Tail3_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Udder_j_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Udder_j_M/Udder_End_M
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 35
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cow
+        weight: 1
+      - path: Group
+        weight: 1
+      - path: Group/Main
+        weight: 1
+      - path: Group/Main/DeformationSystem
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_L/backHip_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_L/backHip_L/backKnee_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_L/backHip_L/backKnee_L/backAnkle_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_L/backHip_L/backKnee_L/backAnkle_L/backToes_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_L/backHip_L/backKnee_L/backAnkle_L/backToes_L/backToesEnd_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_R/backHip_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_R/backHip_R/backKnee_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_R/backHip_R/backKnee_R/backAnkle_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_R/backHip_R/backKnee_R/backAnkle_R/backToes_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/backRump_R/backHip_R/backKnee_R/backAnkle_R/backToes_R/backToesEnd_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_L/frontHip_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_L/frontHip_L/frontKnee_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_L/frontHip_L/frontKnee_L/frontAnkle_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_L/frontHip_L/frontKnee_L/frontAnkle_L/frontToes_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_L/frontHip_L/frontKnee_L/frontAnkle_L/frontToes_L/frontToesEnd_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_R/frontHip_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_R/frontHip_R/frontKnee_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_R/frontHip_R/frontKnee_R/frontAnkle_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_R/frontHip_R/frontKnee_R/frontAnkle_R/frontToes_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/frontRump_R/frontHip_R/frontKnee_R/frontAnkle_R/frontToes_R/frontToesEnd_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_Brow_j_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_Brow_j_L/Eye_Brow_End_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_Brow_j_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_Brow_j_R/Eye_Brow_End_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_L/EyeEnd_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Eye_R/EyeEnd_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/EyeBlink_j_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/EyeBlink_j_L/EyeBlink_End_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/EyeBlink_j_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/EyeBlink_j_R/EyeBlink_End_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/HeadEnd_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Jaw_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Jaw_M/JawEnd_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Nose_j_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/Nose_j_M/Nose_End_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_L/REar_B_j_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_L/REar_B_j_L/REar_C_j_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_L/REar_B_j_L/REar_C_j_L/REar_End_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_R/REar_B_j_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_R/REar_B_j_R/REar_C_j_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Head_M/REar_A_j_R/REar_B_j_R/REar_C_j_R/REar_End_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Neck_Skin_j_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Chest_M/Neck_M/Neck_Skin_j_M/Neck_Skin_End_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail1_M/Tail2_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail1_M/Tail2_M/Tail3_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Udder_j_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Udder_j_M/Udder_End_M
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
