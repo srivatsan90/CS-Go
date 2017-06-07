@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CowMovement : MonoBehaviour {
     public float speed;
-    public Animator cowAnim;
+    public static Animator cowAnim;
 	// Use this for initialization
 	void Start () {
         cowAnim = GetComponent<Animator>();

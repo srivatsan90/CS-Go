@@ -6,6 +6,7 @@ public class Collision : MonoBehaviour {
 
     // Use this for initialization
     public GameObject alien;
+    public GameObject Explosion;
     Rigidbody rb;
 	void Start () {
         rb = alien.GetComponent<Rigidbody>();
@@ -19,8 +20,10 @@ public class Collision : MonoBehaviour {
     {
         if(collision.gameObject.tag=="Cow")
         {
-            rb.AddForce(50f, 10f, 0, ForceMode.Impulse);
-            Debug.Log("Cow Fucked");
+            Explosion.SetActive(true);
+            
+            rb.AddForce(0, 10f,-5f , ForceMode.Impulse);
+            
         }
     }
 }
